@@ -37,6 +37,6 @@
 - Java （Android Studioにて学習中）
 - Git / GitHub（練習中）
 
-## <a href="{{ site.baseurl }}https://MikiMameme.github.io">GitHubページはこちら</a> 
+## [GitHubページはこちら](https://MikiMameme.github.io) 
 ---
 
