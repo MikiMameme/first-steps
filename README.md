@@ -33,10 +33,9 @@
 
 ## 使用技術・環境
 
-- Python（入門書の例題を実装中）
-- Java （Android Studioにて学習中）
-- Git / GitHub（練習中）
-
+- C言語（入門書の例題を実装中）  
+- GitHub（練習中）  
+  
 ## [GitHubページはこちら](https://MikiMameme.github.io) 
 ---
 
